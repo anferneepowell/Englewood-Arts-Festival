@@ -1,6 +1,37 @@
+@import url(bootstrap.css);
+
 body {
-         background-color: DarkRed;
+         background-color: Crimson;
+         border: ridge;
+         font-size: 14px;
+         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+         
 }
  h1 {
+      font-size: 40px;
+     color:LightCoral;
+}
+ 
+ h2,
+ h3,
+ h4 {
       color: White;
+      font-size: 20px;
+}
+ h4 {
+      align center;
+}
+
+.navbar {
+          padding:30px 20px 12px;
+          font-size: 20px;
+          color: Black;
+}
+
+p {
+   color: White;
+}
+
+a {
+   color:DarkCyan;
 }
