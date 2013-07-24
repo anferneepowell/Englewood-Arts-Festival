@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html> 
+
+  <head> 
+
+
+      <title>Englewood Arts Festival</title> 
+
+     <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+    </head> 
+
+    <body style="background-color:Aqua">
+
+    <body> 
+
+     <div align="center">
+
+     <div class="container">
+
+      </div>
+
+     <h1>Englewood Arts Festival</h1>
+
+        <div class="navbar"> 
+
+          <div class="navbar-inner">
+
+         <ul class="nav">
+
+          <li><a href="#">Home</a></li>
+
+          <li><a href="#">About</a></li>
+
+          <li><a href="#">Community Workshops</a></li>
+
+        </ul> 
+
+        </div> 
+
+      </div> 
+
+    </div>
+
+      <div align="center">
+
+       <img style="max-width:40%" src="africobra.jpg"/>
+    
+     </div>
+
+     <div align="center"> 
+
+      <p>yoga person(yoga)</P> 
+
+      <p>stage collective(healing&self care)</P> 
+
+      <p>emergency people(managing grief& trauma)</P>
+
+      <p>growing home(food as medicine)</P>
+
+      <p>peace circle(csoss,to be comfirmed)</p> 
+   
+     </div>  
+
+   </div>
+
+     <div align="left">
+
+      <p>kite-marking</p>
+
+      <p>inferno moblie recording studio</P>
+
+      <p>theater games</P> 
+
+      <p>chalk cubes</p> 
+
+      <p>screen-printing(symone)</p>
+
+      <p>face-painting(CAA)</p> 
+
+      <p>Button-making</p> 
+
+      <p>murals</p>
+
+      <p>other Art fun(CAA)</P>
+
+        </div>  
+
+     <div> 
+
+    </div align="right">
+
+      <p>TTP,corey,ALL star,kuumba lynx,YCA,Peace Center</p> 
+  
+      </div>    
+ 
+  </body>
+
+   
+ 
+
