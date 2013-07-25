@@ -11,6 +11,11 @@ body {
       font-size: 40px;
      color:LightCoral;
 }
+
+.container {
+            background-color: #9370DB ;
+            padding 40px 30px 15px
+}
  
  h2,
  h3,
