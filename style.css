@@ -33,5 +33,13 @@ p {
 }
 
 a {
-   color:DarkCyan;
+   color:Aqua;
+}
+
+#ul class="thumbnails" {
+        border: Double;
+}
+
+div style {
+          float;
 }
